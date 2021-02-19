@@ -1,0 +1,9 @@
+4
+MH01 40 10
+Co so du lieu
+MH02 40 0
+Giai tich
+MH03 40 10
+Dai so
+MH04 40 12
+Tin hoc co so 2
